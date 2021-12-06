@@ -4,9 +4,8 @@
 - 🌱 Estudando Javascript e Git + GitHub
 - 👯 Procuro participar em algum projeto como Desenvolvedor Júnior
 - 🤔 Procuro por ajuda com GitHub
-- 📫 How to reach me: rhyansilvasantos88@gmail.com
+- 📫 Como me contatar: rhyansilvasantos88@gmail.com
 - 😄 Pronomes: Ele/Dele
-- ⚡ Fun fact: 
 
 <div align="center">
   <a href="https://github.com/RhyannSilva">
