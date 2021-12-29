@@ -3,7 +3,6 @@
 - 🔭 Atualmente estou estudando Desenvolvimento Front-End pela Alura
 - 🌱 Estudando Javascript e Git + GitHub
 - 👯 Procuro participar em algum projeto como Desenvolvedor Júnior
-- 🤔 Procuro por ajuda com GitHub
 - 📫 Como me contatar: rhyansilvasantos88@gmail.com
 - 😄 Pronomes: Ele/Dele
 
