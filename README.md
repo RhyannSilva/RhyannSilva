@@ -1,7 +1,7 @@
-### Olá! Eu sou o Rhyan Silva, estudante de Desenvolvimento Front-End 👋
+### Olá! Eu me chamo Rhyan Silva, sou estudante de Desenvolvimento Front-End 👋
 
 - 🔭 Atualmente estou estudando Desenvolvimento Front-End pela Alura
-- 🌱 Estudando Javascript e Git + GitHub
+- 🌱 Estudando Javascript 
 - 👯 Procuro participar em algum projeto como Desenvolvedor Júnior
 - 📫 Como me contatar: rhyansilvasantos88@gmail.com
 - 😄 Pronomes: Ele/Dele
